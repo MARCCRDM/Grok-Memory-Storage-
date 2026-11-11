@@ -6,4 +6,4 @@ The core service takes a doctor's existing or historical patient data, integrate
 
 The bet is that medicine is the single domain where AI training on real-world data isn't just acceptable but necessary, because better models mean better outcomes for patients. Everything else in AI has a privacy problem. Healthcare has a data problem that only gets solved by making that data usable.
 
-Gladoss starts narrow with doctors because that's where the ethical case is strongest and the demand for domain-specific models is highest.
+Gladoss starts narrow with doctors because that's where the ethical case is strongest and the demand for domain-specific models are highest.
