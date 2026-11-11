@@ -1,6 +1,6 @@
-# Gladys Niche Targets: Camera & Recording-Heavy Medical Practices
+# Gladoss Niche Targets: Camera & Recording-Heavy Medical Practices
 
-Practices whose workflow already involves cameras, imaging, or recording equipment. These are the easiest entry points for Gladys because the hardware and consent infrastructure exist — Gladys only needs to license and de-identify what's already being captured.
+Practices whose workflow already involves cameras, imaging, or recording equipment. These are the easiest entry points for Gladoss because the hardware and consent infrastructure exist — Gladoss only needs to license and de-identify what's already being captured.
 
 ## Tier 1: Native Video Capture (Highest Value)
 
@@ -95,7 +95,7 @@ Practices whose workflow already involves cameras, imaging, or recording equipme
 - Mercor pays $100K–$900K for digital health archives
 - Multilingual visits command premiums
 
-## Why These Niches Fit Gladys
+## Why These Niches Fit Gladoss
 
 1. **Hardware exists** — cameras, endoscopes, ultrasound, and ambient mics are already in the room
 2. **Consent exists** — patients already sign for procedure recording or ambient scribing
